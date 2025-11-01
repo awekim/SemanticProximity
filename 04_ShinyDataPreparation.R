@@ -1,7 +1,8 @@
 #######################################################################
+##  Title: Semantic proximity in quantum and general scientific publications: 
+## A BERTopic approach to mapping regional knowledge spaces
+##  goal : Shiny Visualization
 ##  Made by: Keungoui Kim (Ph.D.) & Jisoo Hur (Ph.D.) 
-##  Title: Shiny Data Preparation for Semantic Proximity Research 
-##  goal : 
 ##  Data set: WoS
 ##  Time Span: 
 ##  Variables
